@@ -1,2 +1,2 @@
 - [ ] # Obsidian Repo
-Obsidian sync repo for ash test
+Obsidian sync repo for ash
